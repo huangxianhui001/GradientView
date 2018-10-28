@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "GradientView"
+  s.name         = "MJAGradientView"
   s.version      = "0.0.1"
   s.summary      = "Easy to use view of a gradient layer."
   s.description  = "Easy to use view of a gradient layer addtion with cocoapod support."
